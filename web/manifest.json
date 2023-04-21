@@ -1,6 +1,6 @@
 {
-    "name": "challenge_me",
-    "short_name": "challenge_me",
+    "name": "challengeme",
+    "short_name": "challengeme",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

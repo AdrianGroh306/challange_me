@@ -19,7 +19,7 @@ class HomePageState extends State<HomePage> {
       backgroundColor: Colors.indigoAccent,
       body: _pageOptions[_selectedPageIndex],
       bottomNavigationBar: BottomNavigationBar(
-        backgroundColor: Colors.indigoAccent,
+        backgroundColor: Colors.deepPurple,
         currentIndex: _selectedPageIndex,
         onTap: (int index) {
           setState(() {
